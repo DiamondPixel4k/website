@@ -1,2 +1,2 @@
 # website
-infinityworks.ddns.net
+infinityyworks.github.io
